@@ -1,4 +1,5 @@
 body {
+  background-color: #212121;
   margin: 0;
   pointer-events: none;
   -webkit-user-select: none;

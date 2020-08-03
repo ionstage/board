@@ -4,6 +4,7 @@ html {
 
 body {
   -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
   background-color: #212121;
   margin: 0;
   pointer-events: none;

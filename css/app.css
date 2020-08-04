@@ -7,6 +7,7 @@ body {
   -webkit-touch-callout: none;
   background-color: #212121;
   margin: 0;
+  overflow: hidden;
   pointer-events: none;
   -webkit-user-select: none;
   user-select: none;

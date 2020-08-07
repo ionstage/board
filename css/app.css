@@ -6,6 +6,7 @@ body {
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
   background-color: #212121;
+  cursor: default;
   margin: 0;
   overflow: hidden;
   pointer-events: none;

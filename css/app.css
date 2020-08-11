@@ -16,6 +16,7 @@ body {
 
 .content {
   height: 100%;
+  margin: auto;
   position: fixed;
   width: 100%;
 }

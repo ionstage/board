@@ -16,7 +16,7 @@ body {
 
 .content {
   bottom: 0;
-  height: 100%;
+  height: 133.33vw;
   left: 0;
   margin: auto;
   max-height: 100vh;
@@ -24,5 +24,5 @@ body {
   position: fixed;
   right: 0;
   top: 0;
-  width: 100%;
+  width: 75vh;
 }

@@ -1,10 +1,10 @@
 class App {
-  init () { /* TODO */ }
+  init() { /* TODO */ }
 }
 
 const main = () => {
-  const app = new App()
-  app.init()
-}
+  const app = new App();
+  app.init();
+};
 
-main()
+main();

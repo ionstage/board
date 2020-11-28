@@ -1,10 +1,10 @@
 class App {
-  init() { /* TODO */ }
+  load() { /* TODO */ }
 }
 
 const main = () => {
   const app = new App();
-  app.init();
+  app.load();
 };
 
 main();

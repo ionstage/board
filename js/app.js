@@ -1,4 +1,8 @@
-import { Main } from './main.js';
+class Main {
+  constructor(props) {
+    this.element = props.element;
+  }
+}
 
 class App {
   constructor() {

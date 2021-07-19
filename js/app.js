@@ -1,24 +1,24 @@
-class Main {
-  constructor(props) {
+(function() {
+  'use strict';
+
+  var Main = function(props) {
     this.element = props.element;
-  }
-}
+  };
 
-class App {
-  constructor() {
+  var App = function() {
     this.main = new Main({ element: document.querySelector('.main') });
-  }
+  };
 
-  load() { /* TODO */ }
-}
+  App.prototype.load = function() { /* TODO */ };
 
-const main = () => {
-  const app = new App();
-  app.load();
+  var main = function() {
+    var app = new App();
+    app.load();
 
-  if (location.hostname === 'localhost') {
-    window.app = app;
-  }
-};
+    if (location.hostname === 'localhost') {
+      window.app = app;
+    }
+  };
 
-main();
+  main();
+})();

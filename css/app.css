@@ -4,6 +4,7 @@ html {
 
 body {
   -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
   background-color: #fafafa;
   margin: 0;
   overflow: hidden;

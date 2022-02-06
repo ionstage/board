@@ -13,16 +13,3 @@ body {
   -webkit-user-select: none;
   user-select: none;
 }
-
-.main {
-  bottom: 0;
-  height: 133.33vw;
-  left: 0;
-  margin: auto;
-  max-height: 100vh;
-  max-width: 100vw;
-  position: fixed;
-  right: 0;
-  top: 0;
-  width: 75vh;
-}

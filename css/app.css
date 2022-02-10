@@ -1,14 +1,4 @@
-html {
-  overflow-x: hidden;
-}
-
 body {
-  -webkit-tap-highlight-color: transparent;
   -webkit-text-size-adjust: 100%;
-  -webkit-touch-callout: none;
   margin: 0;
-  overflow: hidden;
-  pointer-events: none;
-  -webkit-user-select: none;
-  user-select: none;
 }

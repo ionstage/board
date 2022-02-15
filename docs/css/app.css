@@ -2,3 +2,7 @@ body {
   -webkit-text-size-adjust: 100%;
   margin: 0;
 }
+
+.section {
+  margin: 24px 0;
+}

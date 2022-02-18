@@ -1,4 +1,4 @@
-import { Main } from './main.js';
+import { Main } from './components/main.js';
 
 export class App {
   constructor() {

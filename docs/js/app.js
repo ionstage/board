@@ -5,5 +5,7 @@ export class App {
     this._main = new Main(document.querySelector('.main'));
   }
 
-  init() { /* TODO */ }
+  init() {
+    this._main.init();
+  }
 }

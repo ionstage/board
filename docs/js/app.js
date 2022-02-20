@@ -1,11 +1,4 @@
-import { Main } from './components/main.js';
+import { Root } from './components/root.js';
 
-export class App {
-  constructor() {
-    this._main = new Main(document.querySelector('.main'));
-  }
-
-  init() {
-    this._main.init();
-  }
-}
+const root = new Root();
+root.init();

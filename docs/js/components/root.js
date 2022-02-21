@@ -1,3 +1,11 @@
+import { Main } from './main.js';
+
 export class Root {
-  init() { /* TODO */ }
+  constructor() {
+    this._main = new Main(document.querySelector('.main'));
+  }
+
+  init() {
+    this._main.init();
+  }
 }

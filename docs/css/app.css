@@ -3,6 +3,11 @@ body {
   margin: 0;
 }
 
+.controls {
+  bottom: 0;
+  position: fixed;
+}
+
 .section {
   margin: 24px 0;
 }

@@ -11,14 +11,14 @@ body {
 
 .controls {
   background-color: #f5f5f5;
+  border-radius: 8px;
   bottom: 8px;
   height: 48px;
-  left: 0;
+  left: 8px;
   margin: 0 auto;
-  max-width: 624px;
+  max-width: 576px;
   position: fixed;
-  right: 0;
-  width: 100%;
+  right: 8px;
 }
 
 .section {

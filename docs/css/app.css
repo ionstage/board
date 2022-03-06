@@ -5,6 +5,10 @@ body {
   margin: 0;
 }
 
+hr {
+  margin: 24px 0;
+}
+
 .main {
   margin: 0 auto 96px auto;
   max-width: 624px;

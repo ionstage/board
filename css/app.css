@@ -15,6 +15,10 @@ hr {
   width: 100%;
 }
 
+.section {
+  margin: 24px 0;
+}
+
 .controls {
   background-color: #f5f5f5;
   border: 1px solid #e0e0e0;
@@ -26,10 +30,6 @@ hr {
   padding: 8px;
   position: fixed;
   right: 16px;
-}
-
-.section {
-  margin: 24px 0;
 }
 
 .command-input {

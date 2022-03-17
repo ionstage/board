@@ -1,8 +1,0 @@
-{
-  "name": "board",
-  "version": "0.0.1",
-  "devDependencies": {
-    "eslint": "^7.30.0"
-  },
-  "private": true
-}
